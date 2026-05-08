@@ -3,3 +3,4 @@ Notebook B2: https://www.kaggle.com/code/spixalo/dl-endterm-b2-vnts
 Notebook B2 Reinforcement Learning: https://www.kaggle.com/code/spixalo/dl-endterm-b2-rl
 Metrics B2: https://www.kaggle.com/code/spixalo/dl-endterm-b-allmetrics
 Dataset for task-2: https://huggingface.co/datasets/tung213/vietnamese-vqa_merged
+Checkpoint for task-1-a: https://huggingface.co/VHT-2012/gVQA-transformer
