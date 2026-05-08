@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "train_items": 2075,
+    "val_items": 273,
+    "test_items": 260,
+    "train_images": 308,
+    "val_images": 39,
+    "test_images": 39,
+    "total_items": 2608,
+    "total_images": 386
+  },
+  "question_types": {
+    "train": {
+      "Identity": 403,
+      "Attribute": 425,
+      "Yes_No": 420,
+      "Counting": 390,
+      "Spatial": 437
+    },
+    "val": {
+      "Identity": 53,
+      "Attribute": 53,
+      "Yes_No": 56,
+      "Counting": 51,
+      "Spatial": 60
+    },
+    "test": {
+      "Identity": 52,
+      "Attribute": 51,
+      "Yes_No": 52,
+      "Counting": 50,
+      "Spatial": 55
+    }
+  },
+  "rules": {
+    "train_items_at_least_2000": true,
+    "train_images_at_least_200": true,
+    "test_items_at_least_50": true,
+    "train_each_image_at_least_3_questions": true,
+    "answer_length_at_most_10_words": false,
+    "one_answer_per_question": true,
+    "no_train_test_image_overlap": true,
+    "all_image_files_exist": true
+  },
+  "issues": {
+    "missing_required_rows": [],
+    "long_answer_rows": [
+      "train_000744",
+      "train_001049",
+      "train_001286",
+      "train_001516",
+      "train_001525",
+      "train_001546",
+      "train_001656",
+      "test_000040",
+      "test_000045",
+      "test_000162"
+    ],
+    "multi_answer_rows": [],
+    "missing_image_rows": [],
+    "train_test_overlap_images": [],
+    "train_val_overlap_images": [],
+    "val_test_overlap_images": []
+  }
+}

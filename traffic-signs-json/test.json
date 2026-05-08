@@ -1,0 +1,2862 @@
+[
+  {
+    "index":0,
+    "image_name":"2047.jpg",
+    "group_id":1,
+    "question":"Đây là loại biển báo giao thông nào?",
+    "answer":[
+      "Biển báo giới hạn tốc độ."
+    ],
+    "type":"Identity",
+    "image_idx":2047
+  },
+  {
+    "index":1,
+    "image_name":"2047.jpg",
+    "group_id":1,
+    "question":"Con số trên biển báo giới hạn tốc độ là bao nhiêu?",
+    "answer":[
+      "Con số là 40."
+    ],
+    "type":"Attribute",
+    "image_idx":2047
+  },
+  {
+    "index":2,
+    "image_name":"2047.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm dừng đỗ trong ảnh không?",
+    "answer":[
+      "Không, không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":2047
+  },
+  {
+    "index":3,
+    "image_name":"2047.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông xuất hiện trong ảnh?",
+    "answer":[
+      "Có 1 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2047
+  },
+  {
+    "index":4,
+    "image_name":"2047.jpg",
+    "group_id":1,
+    "question":"Biển báo nằm ở phía nào của cái cây?",
+    "answer":[
+      "Nằm bên trái cái cây."
+    ],
+    "type":"Spatial",
+    "image_idx":2047
+  },
+  {
+    "index":5,
+    "image_name":"2616.jpg",
+    "group_id":1,
+    "question":"Biển báo trong ảnh có ý nghĩa gì?",
+    "answer":[
+      "Biển báo cấm đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":2616
+  },
+  {
+    "index":6,
+    "image_name":"2616.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm đỗ xe có màu gì chủ đạo?",
+    "answer":[
+      "Màu xanh dương và đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":2616
+  },
+  {
+    "index":7,
+    "image_name":"2616.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía bên phải."
+    ],
+    "type":"Yes_No",
+    "image_idx":2616
+  },
+  {
+    "index":8,
+    "image_name":"2616.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo cấm đỗ xe?",
+    "answer":[
+      "Có một biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2616
+  },
+  {
+    "index":9,
+    "image_name":"2616.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm đỗ xe nằm ở đâu?",
+    "answer":[
+      "Nằm ở phía bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":2616
+  },
+  {
+    "index":10,
+    "image_name":"0616.jpg",
+    "group_id":1,
+    "question":"Biển báo gần nhất trong ảnh là biển gì?",
+    "answer":[
+      "Biển cấm rẽ phải và quay đầu."
+    ],
+    "type":"Identity",
+    "image_idx":616
+  },
+  {
+    "index":11,
+    "image_name":"0616.jpg",
+    "group_id":1,
+    "question":"Tốc độ tối đa cho phép trong ảnh là bao nhiêu?",
+    "answer":[
+      "40 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":616
+  },
+  {
+    "index":12,
+    "image_name":"0616.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm dừng và đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":616
+  },
+  {
+    "index":13,
+    "image_name":"0616.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông xuất hiện trong ảnh?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":616
+  },
+  {
+    "index":14,
+    "image_name":"0616.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm rẽ phải nằm ở đâu?",
+    "answer":[
+      "Ở bên phải lề đường."
+    ],
+    "type":"Spatial",
+    "image_idx":616
+  },
+  {
+    "index":15,
+    "image_name":"1859.jpg",
+    "group_id":1,
+    "question":"Đây là loại biển báo giao thông nào?",
+    "answer":[
+      "Biển báo cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":1859
+  },
+  {
+    "index":16,
+    "image_name":"1859.jpg",
+    "group_id":1,
+    "question":"Biển báo có màu sắc chủ đạo là gì?",
+    "answer":[
+      "Màu đỏ và xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":1859
+  },
+  {
+    "index":17,
+    "image_name":"1859.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm dừng đỗ trong ảnh không?",
+    "answer":[
+      "Có, biển báo đang hiển thị."
+    ],
+    "type":"Yes_No",
+    "image_idx":1859
+  },
+  {
+    "index":18,
+    "image_name":"1859.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Chỉ có một biển báo duy nhất."
+    ],
+    "type":"Counting",
+    "image_idx":1859
+  },
+  {
+    "index":19,
+    "image_name":"1859.jpg",
+    "group_id":1,
+    "question":"Biển báo được đặt ở vị trí nào?",
+    "answer":[
+      "Gắn trên cột trụ cao."
+    ],
+    "type":"Spatial",
+    "image_idx":1859
+  },
+  {
+    "index":20,
+    "image_name":"2860.jpg",
+    "group_id":1,
+    "question":"Biển báo hình tròn đỏ cấm phương tiện làm gì?",
+    "answer":[
+      "Cấm rẽ trái và rẽ phải."
+    ],
+    "type":"Identity",
+    "image_idx":2860
+  },
+  {
+    "index":21,
+    "image_name":"2860.jpg",
+    "group_id":1,
+    "question":"Biển báo dưới biển cấm có màu chủ đạo là gì?",
+    "answer":[
+      "Màu trắng với chữ và hình màu đen."
+    ],
+    "type":"Attribute",
+    "image_idx":2860
+  },
+  {
+    "index":22,
+    "image_name":"2860.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đi ngược chiều trong ảnh không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":2860
+  },
+  {
+    "index":23,
+    "image_name":"2860.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo được treo trên cột này?",
+    "answer":[
+      "Hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2860
+  },
+  {
+    "index":24,
+    "image_name":"2860.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm rẽ nằm ở vị trí nào?",
+    "answer":[
+      "Nằm ở phía trên bên phải khung hình."
+    ],
+    "type":"Spatial",
+    "image_idx":2860
+  },
+  {
+    "index":25,
+    "image_name":"1450.jpg",
+    "group_id":1,
+    "question":"Biển báo nào cho phép cấm rẽ trái trong ảnh?",
+    "answer":[
+      "Biển cấm rẽ trái hình tròn viền đỏ."
+    ],
+    "type":"Identity",
+    "image_idx":1450
+  },
+  {
+    "index":26,
+    "image_name":"1450.jpg",
+    "group_id":1,
+    "question":"Màu sắc chủ đạo của các biển báo cấm là gì?",
+    "answer":[
+      "Màu đỏ và màu trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":1450
+  },
+  {
+    "index":27,
+    "image_name":"1450.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm dừng và đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":1450
+  },
+  {
+    "index":28,
+    "image_name":"1450.jpg",
+    "group_id":1,
+    "question":"Có tổng cộng bao nhiêu biển báo giao thông?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1450
+  },
+  {
+    "index":29,
+    "image_name":"1450.jpg",
+    "group_id":1,
+    "question":"Biển cấm rẽ trái nằm ở vị trí nào?",
+    "answer":[
+      "Nằm bên phải cột đèn tín hiệu."
+    ],
+    "type":"Spatial",
+    "image_idx":1450
+  },
+  {
+    "index":30,
+    "image_name":"1062.jpg",
+    "group_id":1,
+    "question":"Biển báo hình tam giác trên cột có ý nghĩa gì?",
+    "answer":[
+      "Đường người đi bộ cắt ngang."
+    ],
+    "type":"Identity",
+    "image_idx":1062
+  },
+  {
+    "index":31,
+    "image_name":"1062.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm quay đầu có hình dạng gì?",
+    "answer":[
+      "Hình tròn."
+    ],
+    "type":"Attribute",
+    "image_idx":1062
+  },
+  {
+    "index":32,
+    "image_name":"1062.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đi ngược chiều trong ảnh không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1062
+  },
+  {
+    "index":33,
+    "image_name":"1062.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông trên cột bên phải?",
+    "answer":[
+      "Hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1062
+  },
+  {
+    "index":34,
+    "image_name":"1062.jpg",
+    "group_id":1,
+    "question":"Biển báo nào nằm phía trên biển đường người đi bộ?",
+    "answer":[
+      "Biển cấm quay đầu."
+    ],
+    "type":"Spatial",
+    "image_idx":1062
+  },
+  {
+    "index":35,
+    "image_name":"0200.jpg",
+    "group_id":1,
+    "question":"Đây là biển báo gì?",
+    "answer":[
+      "Biển báo cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":200
+  },
+  {
+    "index":36,
+    "image_name":"0200.jpg",
+    "group_id":1,
+    "question":"Biển báo này có hình dạng gì?",
+    "answer":[
+      "Hình tròn."
+    ],
+    "type":"Attribute",
+    "image_idx":200
+  },
+  {
+    "index":37,
+    "image_name":"0200.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm dừng đỗ trong ảnh không?",
+    "answer":[
+      "Có."
+    ],
+    "type":"Yes_No",
+    "image_idx":200
+  },
+  {
+    "index":38,
+    "image_name":"0200.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo cấm dừng đỗ trong ảnh?",
+    "answer":[
+      "Một biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":200
+  },
+  {
+    "index":39,
+    "image_name":"0200.jpg",
+    "group_id":1,
+    "question":"Biển báo nằm ở đâu so với con đường?",
+    "answer":[
+      "Bên lề phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":200
+  },
+  {
+    "index":40,
+    "image_name":"1533.jpg",
+    "group_id":1,
+    "question":"Trong ảnh có những loại biển báo giao thông nào?",
+    "answer":[
+      "Cấm ngược chiều, hiệu lệnh, giới hạn tốc độ."
+    ],
+    "type":"Identity",
+    "image_idx":1533
+  },
+  {
+    "index":41,
+    "image_name":"1533.jpg",
+    "group_id":1,
+    "question":"Tốc độ tối đa cho phép trên biển báo là bao nhiêu?",
+    "answer":[
+      "40 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":1533
+  },
+  {
+    "index":42,
+    "image_name":"1533.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm rẽ phải trong ảnh không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1533
+  },
+  {
+    "index":43,
+    "image_name":"1533.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông xuất hiện trong ảnh?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1533
+  },
+  {
+    "index":44,
+    "image_name":"1533.jpg",
+    "group_id":1,
+    "question":"Biển báo giới hạn tốc độ nằm ở phía nào?",
+    "answer":[
+      "Nằm ở phía bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1533
+  },
+  {
+    "index":45,
+    "image_name":"0698.jpg",
+    "group_id":1,
+    "question":"Biển báo nào cấm xe sơ-mi rơ-moóc?",
+    "answer":[
+      "Biển tròn viền đỏ có hình xe sơ-mi rơ-moóc."
+    ],
+    "type":"Identity",
+    "image_idx":698
+  },
+  {
+    "index":46,
+    "image_name":"0698.jpg",
+    "group_id":1,
+    "question":"Biển cấm dừng đỗ có màu sắc chủ đạo gì?",
+    "answer":[
+      "Màu đỏ và xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":698
+  },
+  {
+    "index":47,
+    "image_name":"0698.jpg",
+    "group_id":1,
+    "question":"Có biển báo đường một chiều trong ảnh không?",
+    "answer":[
+      "Có, biển hình vuông màu xanh."
+    ],
+    "type":"Yes_No",
+    "image_idx":698
+  },
+  {
+    "index":48,
+    "image_name":"0698.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông trên cột phía bên phải?",
+    "answer":[
+      "Có hai biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":698
+  },
+  {
+    "index":49,
+    "image_name":"0698.jpg",
+    "group_id":1,
+    "question":"Biển cấm dừng đỗ nằm ở đâu so với biển cấm xe sơ-mi rơ-moóc?",
+    "answer":[
+      "Nằm ở phía trên."
+    ],
+    "type":"Spatial",
+    "image_idx":698
+  },
+  {
+    "index":50,
+    "image_name":"2857.jpg",
+    "group_id":1,
+    "question":"Biển báo hình tròn đỏ có ý nghĩa gì?",
+    "answer":[
+      "Cấm rẽ trái và rẽ phải."
+    ],
+    "type":"Identity",
+    "image_idx":2857
+  },
+  {
+    "index":51,
+    "image_name":"2857.jpg",
+    "group_id":1,
+    "question":"Biển phụ bên dưới biển cấm có màu gì?",
+    "answer":[
+      "Nền trắng, chữ đen."
+    ],
+    "type":"Attribute",
+    "image_idx":2857
+  },
+  {
+    "index":52,
+    "image_name":"2857.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đi ngược chiều trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":2857
+  },
+  {
+    "index":53,
+    "image_name":"2857.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông chính hiện rõ?",
+    "answer":[
+      "Có 4 biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":2857
+  },
+  {
+    "index":54,
+    "image_name":"2857.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm rẽ nằm ở phía nào?",
+    "answer":[
+      "Nằm ở phía bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":2857
+  },
+  {
+    "index":55,
+    "image_name":"0603.jpg",
+    "group_id":1,
+    "question":"Biển báo tròn màu đỏ có ý nghĩa gì?",
+    "answer":[
+      "Biển báo cấm."
+    ],
+    "type":"Identity",
+    "image_idx":603
+  },
+  {
+    "index":56,
+    "image_name":"0603.jpg",
+    "group_id":1,
+    "question":"Giới hạn chiều cao cho phép là bao nhiêu?",
+    "answer":[
+      "2,5 mét."
+    ],
+    "type":"Attribute",
+    "image_idx":603
+  },
+  {
+    "index":57,
+    "image_name":"0603.jpg",
+    "group_id":1,
+    "question":"Trong ảnh có biển báo cấm rẽ phải không?",
+    "answer":[
+      "Có, biển báo nằm trên thành cầu."
+    ],
+    "type":"Yes_No",
+    "image_idx":603
+  },
+  {
+    "index":58,
+    "image_name":"0603.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông xuất hiện?",
+    "answer":[
+      "Có 2 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":603
+  },
+  {
+    "index":59,
+    "image_name":"0603.jpg",
+    "group_id":1,
+    "question":"Biển báo giới hạn chiều cao nằm ở đâu?",
+    "answer":[
+      "Nằm bên trái bức tường cầu."
+    ],
+    "type":"Spatial",
+    "image_idx":603
+  },
+  {
+    "index":60,
+    "image_name":"1534.jpg",
+    "group_id":1,
+    "question":"Biển báo tròn màu đỏ trong ảnh là gì?",
+    "answer":[
+      "Biển giới hạn tốc độ 40km\/h."
+    ],
+    "type":"Identity",
+    "image_idx":1534
+  },
+  {
+    "index":61,
+    "image_name":"1534.jpg",
+    "group_id":1,
+    "question":"Biển giới hạn tốc độ có màu gì?",
+    "answer":[
+      "Màu đỏ và trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":1534
+  },
+  {
+    "index":62,
+    "image_name":"1534.jpg",
+    "group_id":1,
+    "question":"Trong ảnh có biển báo cấm đi ngược chiều không?",
+    "answer":[
+      "Có, nằm ở phía bên trái đường."
+    ],
+    "type":"Yes_No",
+    "image_idx":1534
+  },
+  {
+    "index":63,
+    "image_name":"1534.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1534
+  },
+  {
+    "index":64,
+    "image_name":"1534.jpg",
+    "group_id":1,
+    "question":"Biển giới hạn tốc độ nằm ở vị trí nào?",
+    "answer":[
+      "Bên phải lề đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1534
+  },
+  {
+    "index":65,
+    "image_name":"1974.jpg",
+    "group_id":1,
+    "question":"Biển báo tròn có gạch chéo đỏ là biển gì?",
+    "answer":[
+      "Biển cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":1974
+  },
+  {
+    "index":66,
+    "image_name":"1974.jpg",
+    "group_id":1,
+    "question":"Biển cấm xe hai và ba bánh có màu gì?",
+    "answer":[
+      "Viền đỏ, nền trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":1974
+  },
+  {
+    "index":67,
+    "image_name":"1974.jpg",
+    "group_id":1,
+    "question":"Có biển cấm ô tô con ở đây không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1974
+  },
+  {
+    "index":68,
+    "image_name":"1974.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo tròn treo trên cột?",
+    "answer":[
+      "Có hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1974
+  },
+  {
+    "index":69,
+    "image_name":"1974.jpg",
+    "group_id":1,
+    "question":"Biển báo nằm ở vị trí nào so với đường đi?",
+    "answer":[
+      "Nằm ở phía bên trái đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1974
+  },
+  {
+    "index":70,
+    "image_name":"1432.jpg",
+    "group_id":1,
+    "question":"Biển báo nào đang xuất hiện trên cột bên phải?",
+    "answer":[
+      "Biển báo cấm rẽ trái."
+    ],
+    "type":"Identity",
+    "image_idx":1432
+  },
+  {
+    "index":71,
+    "image_name":"1432.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm rẽ trái có viền màu gì?",
+    "answer":[
+      "Viền màu đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":1432
+  },
+  {
+    "index":72,
+    "image_name":"1432.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":1432
+  },
+  {
+    "index":73,
+    "image_name":"1432.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông xuất hiện?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1432
+  },
+  {
+    "index":74,
+    "image_name":"1432.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm rẽ trái nằm ở đâu?",
+    "answer":[
+      "Nằm bên phải cột đèn giao thông."
+    ],
+    "type":"Spatial",
+    "image_idx":1432
+  },
+  {
+    "index":75,
+    "image_name":"2872.jpg",
+    "group_id":1,
+    "question":"Biển báo hình tròn đỏ trong ảnh có ý nghĩa gì?",
+    "answer":[
+      "Biển báo cấm quay đầu xe."
+    ],
+    "type":"Identity",
+    "image_idx":2872
+  },
+  {
+    "index":76,
+    "image_name":"2872.jpg",
+    "group_id":1,
+    "question":"Biển gộp làn đường có màu nền là gì?",
+    "answer":[
+      "Biển có màu xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":2872
+  },
+  {
+    "index":77,
+    "image_name":"2872.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm đi ngược chiều trong ảnh không?",
+    "answer":[
+      "Không có biển báo cấm đi ngược chiều."
+    ],
+    "type":"Yes_No",
+    "image_idx":2872
+  },
+  {
+    "index":78,
+    "image_name":"2872.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu đèn tín hiệu đếm ngược đang hiển thị?",
+    "answer":[
+      "Có 2 đèn đếm ngược."
+    ],
+    "type":"Counting",
+    "image_idx":2872
+  },
+  {
+    "index":79,
+    "image_name":"2872.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm quay đầu nằm ở vị trí nào?",
+    "answer":[
+      "Nằm ở cột biển báo bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":2872
+  },
+  {
+    "index":80,
+    "image_name":"1180.jpg",
+    "group_id":1,
+    "question":"Biển báo hình tam giác cảnh báo điều gì?",
+    "answer":[
+      "Cảnh báo gồ giảm tốc phía trước."
+    ],
+    "type":"Identity",
+    "image_idx":1180
+  },
+  {
+    "index":81,
+    "image_name":"1180.jpg",
+    "group_id":1,
+    "question":"Biển báo cấm dừng đỗ có hình dạng gì?",
+    "answer":[
+      "Hình tròn trên nền biển hình vuông."
+    ],
+    "type":"Attribute",
+    "image_idx":1180
+  },
+  {
+    "index":82,
+    "image_name":"1180.jpg",
+    "group_id":1,
+    "question":"Có biển báo cấm rẽ phải trong ảnh không?",
+    "answer":[
+      "Có, xuất hiện ở cột biển báo phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":1180
+  },
+  {
+    "index":83,
+    "image_name":"1180.jpg",
+    "group_id":1,
+    "question":"Có bao nhiêu biển báo giao thông chính trong ảnh?",
+    "answer":[
+      "Có 4 biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":1180
+  },
+  {
+    "index":84,
+    "image_name":"1180.jpg",
+    "group_id":1,
+    "question":"Biển cấm dừng đỗ nằm ở vị trí nào?",
+    "answer":[
+      "Nằm ở phía bên phải lề đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1180
+  },
+  {
+    "index":85,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Biển báo dưới cùng có nội dung gì?",
+    "answer":[
+      "Nội dung là Chú ý quan sát."
+    ],
+    "type":"Identity",
+    "image_idx":2011
+  },
+  {
+    "index":86,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Biển báo người đi bộ có hình gì?",
+    "answer":[
+      "Hình tam giác viền đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":2011
+  },
+  {
+    "index":87,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Có biển báo cấm trong ảnh không?",
+    "answer":[
+      "Không có biển báo cấm."
+    ],
+    "type":"Yes_No",
+    "image_idx":2011
+  },
+  {
+    "index":88,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo tam giác trên cột?",
+    "answer":[
+      "Có hai biển báo tam giác."
+    ],
+    "type":"Counting",
+    "image_idx":2011
+  },
+  {
+    "index":89,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Biển báo nào nằm ở vị trí cao nhất?",
+    "answer":[
+      "Biển báo giao nhau với đường không ưu tiên."
+    ],
+    "type":"Spatial",
+    "image_idx":2011
+  },
+  {
+    "index":90,
+    "image_name":"2011.jpg",
+    "group_id":2,
+    "question":"Biển báo người đi bộ nằm ở đâu?",
+    "answer":[
+      "Nằm ngay dưới biển báo giao nhau."
+    ],
+    "type":"Spatial",
+    "image_idx":2011
+  },
+  {
+    "index":91,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Biển báo phía dưới hình tam giác là biển gì?",
+    "answer":[
+      "Biển báo đường người đi bộ cắt ngang."
+    ],
+    "type":"Identity",
+    "image_idx":2012
+  },
+  {
+    "index":92,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Biển báo hình chữ nhật có màu gì?",
+    "answer":[
+      "Nền đỏ, chữ trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":2012
+  },
+  {
+    "index":93,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Trong ảnh có biển báo cấm không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":2012
+  },
+  {
+    "index":94,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo hình tam giác trên cột?",
+    "answer":[
+      "Hai biển."
+    ],
+    "type":"Counting",
+    "image_idx":2012
+  },
+  {
+    "index":95,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Biển báo nào nằm ở vị trí cao nhất?",
+    "answer":[
+      "Biển giao nhau với đường không ưu tiên."
+    ],
+    "type":"Spatial",
+    "image_idx":2012
+  },
+  {
+    "index":96,
+    "image_name":"2012.jpg",
+    "group_id":2,
+    "question":"Biển báo 'Chú ý quan sát' nằm ở đâu?",
+    "answer":[
+      "Nằm dưới các biển hình tam giác."
+    ],
+    "type":"Spatial",
+    "image_idx":2012
+  },
+  {
+    "index":97,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Biển báo trên cột điện bên phải có hình gì?",
+    "answer":[
+      "Hình tam giác cảnh báo nguy hiểm."
+    ],
+    "type":"Identity",
+    "image_idx":298
+  },
+  {
+    "index":98,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Biển báo cấm rẽ trái có viền màu gì?",
+    "answer":[
+      "Viền màu đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":298
+  },
+  {
+    "index":99,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Trong ảnh có xuất hiện biển báo dừng xe buýt không?",
+    "answer":[
+      "Có, nằm ở phía xa bên trái."
+    ],
+    "type":"Yes_No",
+    "image_idx":298
+  },
+  {
+    "index":100,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có 3 biển báo giao thông chính."
+    ],
+    "type":"Counting",
+    "image_idx":298
+  },
+  {
+    "index":101,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Biển báo nguy hiểm nằm ở đâu trong ảnh?",
+    "answer":[
+      "Nằm trên cột điện bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":298
+  },
+  {
+    "index":102,
+    "image_name":"0298.jpg",
+    "group_id":2,
+    "question":"Biển báo cấm rẽ trái có hình dạng gì?",
+    "answer":[
+      "Hình tròn."
+    ],
+    "type":"Identity",
+    "image_idx":298
+  },
+  {
+    "index":103,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Biển báo dưới cùng có ý nghĩa gì?",
+    "answer":[
+      "Đường người đi bộ cắt ngang."
+    ],
+    "type":"Identity",
+    "image_idx":861
+  },
+  {
+    "index":104,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Biển báo hình tam giác có màu chủ đạo là gì?",
+    "answer":[
+      "Màu vàng và viền đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":861
+  },
+  {
+    "index":105,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Trong ảnh có biển báo cấm không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":861
+  },
+  {
+    "index":106,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":861
+  },
+  {
+    "index":107,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Biển báo nào nằm ở vị trí cao hơn?",
+    "answer":[
+      "Biển báo giao nhau với đường không ưu tiên."
+    ],
+    "type":"Spatial",
+    "image_idx":861
+  },
+  {
+    "index":108,
+    "image_name":"0861.jpg",
+    "group_id":2,
+    "question":"Biển báo hình tam giác có phải biển báo nguy hiểm?",
+    "answer":[
+      "Đúng, đó là biển báo nguy hiểm."
+    ],
+    "type":"Yes_No",
+    "image_idx":861
+  },
+  {
+    "index":109,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Đây là biển báo gì?",
+    "answer":[
+      "Biển báo đường người đi bộ cắt ngang."
+    ],
+    "type":"Identity",
+    "image_idx":908
+  },
+  {
+    "index":110,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Biển báo này có hình dạng gì?",
+    "answer":[
+      "Hình tam giác."
+    ],
+    "type":"Attribute",
+    "image_idx":908
+  },
+  {
+    "index":111,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Trong ảnh có biển báo cấm không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":908
+  },
+  {
+    "index":112,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có 1 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":908
+  },
+  {
+    "index":113,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Biển báo nằm ở vị trí nào trong ảnh?",
+    "answer":[
+      "Nằm ở phía trên bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":908
+  },
+  {
+    "index":114,
+    "image_name":"0908.jpg",
+    "group_id":2,
+    "question":"Biển báo có màu chủ đạo là gì?",
+    "answer":[
+      "Màu vàng và đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":908
+  },
+  {
+    "index":115,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Biển báo hình tam giác màu vàng thể hiện điều gì?",
+    "answer":[
+      "Chỗ ngoặt nguy hiểm vòng bên trái."
+    ],
+    "type":"Identity",
+    "image_idx":3035
+  },
+  {
+    "index":116,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Tốc độ tối đa cho phép trên biển báo là bao nhiêu?",
+    "answer":[
+      "50 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":3035
+  },
+  {
+    "index":117,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Có biển báo cấm dừng và đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm ở phía xa."
+    ],
+    "type":"Yes_No",
+    "image_idx":3035
+  },
+  {
+    "index":118,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo giao thông chính được hiển thị?",
+    "answer":[
+      "Có 4 biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":3035
+  },
+  {
+    "index":119,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Biển báo nguy hiểm nằm ở đâu so với khung cảnh?",
+    "answer":[
+      "Nằm ở phía bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":3035
+  },
+  {
+    "index":120,
+    "image_name":"3035.jpg",
+    "group_id":2,
+    "question":"Biển báo cấm xe hai bánh nằm ở đâu?",
+    "answer":[
+      "Nằm trong biển báo xanh phía bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":3035
+  },
+  {
+    "index":121,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Đây là loại biển báo gì?",
+    "answer":[
+      "Biển báo người đi bộ cắt ngang."
+    ],
+    "type":"Identity",
+    "image_idx":489
+  },
+  {
+    "index":122,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Biển báo có hình dạng gì?",
+    "answer":[
+      "Hình tam giác đều."
+    ],
+    "type":"Attribute",
+    "image_idx":489
+  },
+  {
+    "index":123,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Có biển báo giao thông trong ảnh không?",
+    "answer":[
+      "Có, có một biển báo."
+    ],
+    "type":"Yes_No",
+    "image_idx":489
+  },
+  {
+    "index":124,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu xe buýt trong ảnh?",
+    "answer":[
+      "Có một chiếc xe buýt."
+    ],
+    "type":"Counting",
+    "image_idx":489
+  },
+  {
+    "index":125,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Biển báo nằm ở phía nào của đường?",
+    "answer":[
+      "Nằm bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":489
+  },
+  {
+    "index":126,
+    "image_name":"0489.jpg",
+    "group_id":2,
+    "question":"Biển báo được đặt ở đâu?",
+    "answer":[
+      "Trên vỉa hè cạnh đường."
+    ],
+    "type":"Spatial",
+    "image_idx":489
+  },
+  {
+    "index":127,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Ảnh có mấy biển báo giao thông?",
+    "answer":[
+      "Có 2 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2066
+  },
+  {
+    "index":128,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Biển báo trên cùng là biển gì?",
+    "answer":[
+      "Giao nhau với đường không ưu tiên."
+    ],
+    "type":"Identity",
+    "image_idx":2066
+  },
+  {
+    "index":129,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Biển báo phía dưới có hình dạng gì?",
+    "answer":[
+      "Hình tam giác đều."
+    ],
+    "type":"Attribute",
+    "image_idx":2066
+  },
+  {
+    "index":130,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Biển báo đường người đi bộ có nằm trên không?",
+    "answer":[
+      "Không, nó nằm dưới."
+    ],
+    "type":"Yes_No",
+    "image_idx":2066
+  },
+  {
+    "index":131,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Biển báo giao nhau với đường không ưu tiên nằm ở đâu?",
+    "answer":[
+      "Nằm ở phía trên."
+    ],
+    "type":"Spatial",
+    "image_idx":2066
+  },
+  {
+    "index":132,
+    "image_name":"2066.jpg",
+    "group_id":2,
+    "question":"Biển báo người đi bộ cắt ngang nằm ở đâu?",
+    "answer":[
+      "Nằm ngay dưới biển báo giao nhau."
+    ],
+    "type":"Spatial",
+    "image_idx":2066
+  },
+  {
+    "index":133,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Trong ảnh có biển báo nào?",
+    "answer":[
+      "Biển báo đường thu hẹp và đi chậm."
+    ],
+    "type":"Identity",
+    "image_idx":462
+  },
+  {
+    "index":134,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Biển báo đi chậm có hình dạng gì?",
+    "answer":[
+      "Hình tam giác."
+    ],
+    "type":"Attribute",
+    "image_idx":462
+  },
+  {
+    "index":135,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Có biển báo cấm đi ngược chiều không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":462
+  },
+  {
+    "index":136,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Có bao nhiêu biển báo giao thông trên cột?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":462
+  },
+  {
+    "index":137,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Biển báo nào nằm ở vị trí cao nhất?",
+    "answer":[
+      "Biển báo đường thu hẹp phía phải."
+    ],
+    "type":"Spatial",
+    "image_idx":462
+  },
+  {
+    "index":138,
+    "image_name":"0462.jpg",
+    "group_id":2,
+    "question":"Biển báo chú ý quan sát nằm ở đâu?",
+    "answer":[
+      "Nằm dưới biển báo đi chậm."
+    ],
+    "type":"Spatial",
+    "image_idx":462
+  },
+  {
+    "index":139,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo trong ảnh có nội dung gì?",
+    "answer":[
+      "Biển báo có nội dung 'Đi chậm'."
+    ],
+    "type":"Identity",
+    "image_idx":398
+  },
+  {
+    "index":140,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo 'Đi chậm' có hình dạng gì?",
+    "answer":[
+      "Hình tam giác đều."
+    ],
+    "type":"Attribute",
+    "image_idx":398
+  },
+  {
+    "index":141,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo 'Đi chậm' có màu chủ đạo là gì?",
+    "answer":[
+      "Màu vàng."
+    ],
+    "type":"Attribute",
+    "image_idx":398
+  },
+  {
+    "index":142,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Có biển báo cấm nào trong ảnh không?",
+    "answer":[
+      "Không có biển báo cấm."
+    ],
+    "type":"Yes_No",
+    "image_idx":398
+  },
+  {
+    "index":143,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo 'Đi chậm' có đang nằm trên cột điện không?",
+    "answer":[
+      "Có, biển báo gắn trên cột."
+    ],
+    "type":"Yes_No",
+    "image_idx":398
+  },
+  {
+    "index":144,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có một biển báo giao thông."
+    ],
+    "type":"Counting",
+    "image_idx":398
+  },
+  {
+    "index":145,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu cái ghế nhựa trong ảnh?",
+    "answer":[
+      "Có hai cái ghế nhựa."
+    ],
+    "type":"Counting",
+    "image_idx":398
+  },
+  {
+    "index":146,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Vị trí biển báo nằm ở đâu so với cột điện?",
+    "answer":[
+      "Biển báo nằm trên cột điện."
+    ],
+    "type":"Spatial",
+    "image_idx":398
+  },
+  {
+    "index":147,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo nằm ở phía nào so với cái ô đỏ?",
+    "answer":[
+      "Biển báo nằm bên trái cái ô."
+    ],
+    "type":"Spatial",
+    "image_idx":398
+  },
+  {
+    "index":148,
+    "image_name":"0398.jpg",
+    "group_id":3,
+    "question":"Biển báo 'Đi chậm' được lắp đặt ở độ cao nào?",
+    "answer":[
+      "Lắp ở vị trí ngang tầm mắt."
+    ],
+    "type":"Attribute",
+    "image_idx":398
+  },
+  {
+    "index":149,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo hình tròn có ý nghĩa gì?",
+    "answer":[
+      "Cấm đi thẳng và rẽ phải."
+    ],
+    "type":"Identity",
+    "image_idx":1606
+  },
+  {
+    "index":150,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo hình tam giác thể hiện điều gì?",
+    "answer":[
+      "Giao nhau với đường ưu tiên bên trái."
+    ],
+    "type":"Identity",
+    "image_idx":1606
+  },
+  {
+    "index":151,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo dưới biển cấm dành cho loại xe nào?",
+    "answer":[
+      "Xe tải trên 5 tấn."
+    ],
+    "type":"Attribute",
+    "image_idx":1606
+  },
+  {
+    "index":152,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển cấm có hiệu lực vào khung giờ nào?",
+    "answer":[
+      "Từ 6 giờ đến 22 giờ."
+    ],
+    "type":"Attribute",
+    "image_idx":1606
+  },
+  {
+    "index":153,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Có biển báo hiệu giao thông nào hình vuông không?",
+    "answer":[
+      "Có, biển phụ dành cho xe tải."
+    ],
+    "type":"Yes_No",
+    "image_idx":1606
+  },
+  {
+    "index":154,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo cấm có nằm phía trên biển báo giao nhau không?",
+    "answer":[
+      "Có, nằm ở trên cùng."
+    ],
+    "type":"Yes_No",
+    "image_idx":1606
+  },
+  {
+    "index":155,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có ba biển báo giao thông."
+    ],
+    "type":"Counting",
+    "image_idx":1606
+  },
+  {
+    "index":156,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Có mấy biển báo có viền màu đỏ?",
+    "answer":[
+      "Có một biển báo viền đỏ."
+    ],
+    "type":"Counting",
+    "image_idx":1606
+  },
+  {
+    "index":157,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo nào nằm ở vị trí thấp nhất?",
+    "answer":[
+      "Biển báo giao nhau hình tam giác."
+    ],
+    "type":"Spatial",
+    "image_idx":1606
+  },
+  {
+    "index":158,
+    "image_name":"1606.jpg",
+    "group_id":3,
+    "question":"Biển báo nào nằm ở giữa các biển báo?",
+    "answer":[
+      "Biển phụ dành cho xe tải."
+    ],
+    "type":"Spatial",
+    "image_idx":1606
+  },
+  {
+    "index":159,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển báo trên cùng có hình dạng gì?",
+    "answer":[
+      "Hình tròn viền đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":1197
+  },
+  {
+    "index":160,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu biển báo giao thông trên cột bên phải?",
+    "answer":[
+      "Có 3 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1197
+  },
+  {
+    "index":161,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển báo cấm rẽ phải nằm ở đâu?",
+    "answer":[
+      "Trên cùng của cột bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":1197
+  },
+  {
+    "index":162,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển báo nào báo hiệu đường người đi bộ cắt ngang?",
+    "answer":[
+      "Biển hình tam giác có biểu tượng người đi bộ."
+    ],
+    "type":"Identity",
+    "image_idx":1197
+  },
+  {
+    "index":163,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển cấm rẽ phải có hiệu lực với xe tải không?",
+    "answer":[
+      "Có, trừ xe phục vụ khu CNC."
+    ],
+    "type":"Yes_No",
+    "image_idx":1197
+  },
+  {
+    "index":164,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển báo người đi bộ nằm ở vị trí nào?",
+    "answer":[
+      "Nằm dưới biển giao nhau với đường không ưu tiên."
+    ],
+    "type":"Spatial",
+    "image_idx":1197
+  },
+  {
+    "index":165,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Có biển báo cấm đi ngược chiều trong ảnh không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1197
+  },
+  {
+    "index":166,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Tổng cộng có bao nhiêu cột biển báo trong ảnh?",
+    "answer":[
+      "Có 2 cột biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":1197
+  },
+  {
+    "index":167,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển báo hình tam giác màu vàng là biển gì?",
+    "answer":[
+      "Biển cảnh báo nguy hiểm."
+    ],
+    "type":"Identity",
+    "image_idx":1197
+  },
+  {
+    "index":168,
+    "image_name":"1197.jpg",
+    "group_id":3,
+    "question":"Biển cấm rẽ phải có màu nền là gì?",
+    "answer":[
+      "Màu trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":1197
+  },
+  {
+    "index":169,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển báo phía trên cùng là biển gì?",
+    "answer":[
+      "Biển cấm đi ngược chiều."
+    ],
+    "type":"Identity",
+    "image_idx":2522
+  },
+  {
+    "index":170,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển báo dưới biển cấm là biển gì?",
+    "answer":[
+      "Biển phải đi vòng sang bên phải."
+    ],
+    "type":"Identity",
+    "image_idx":2522
+  },
+  {
+    "index":171,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển cấm đi ngược chiều có màu gì?",
+    "answer":[
+      "Nền đỏ, gạch ngang trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":2522
+  },
+  {
+    "index":172,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển phải đi vòng sang phải có hình gì?",
+    "answer":[
+      "Hình tròn nền xanh."
+    ],
+    "type":"Attribute",
+    "image_idx":2522
+  },
+  {
+    "index":173,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Trong ảnh có biển báo bến xe buýt không?",
+    "answer":[
+      "Có, nằm ở phía xa bên phải."
+    ],
+    "type":"Yes_No",
+    "image_idx":2522
+  },
+  {
+    "index":174,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Có biển báo đường một chiều trong ảnh không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":2522
+  },
+  {
+    "index":175,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu biển báo giao thông treo trên cột?",
+    "answer":[
+      "Có hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2522
+  },
+  {
+    "index":176,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Có bao nhiêu biển báo nhỏ nằm phía xa?",
+    "answer":[
+      "Có hai biển báo nhỏ."
+    ],
+    "type":"Counting",
+    "image_idx":2522
+  },
+  {
+    "index":177,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển cấm đi ngược chiều nằm ở đâu?",
+    "answer":[
+      "Nằm trên cao bên trái."
+    ],
+    "type":"Spatial",
+    "image_idx":2522
+  },
+  {
+    "index":178,
+    "image_name":"2522.jpg",
+    "group_id":3,
+    "question":"Biển báo bến xe buýt nằm ở vị trí nào?",
+    "answer":[
+      "Nằm bên lề đường phía phải."
+    ],
+    "type":"Spatial",
+    "image_idx":2522
+  },
+  {
+    "index":179,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn màu đỏ là biển gì?",
+    "answer":[
+      "Biển báo cấm đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":2606
+  },
+  {
+    "index":180,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Tốc độ tối đa cho phép trên biển là bao nhiêu?",
+    "answer":[
+      "60 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":2606
+  },
+  {
+    "index":181,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Có biển báo giới hạn tốc độ 80km\/h trong ảnh không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":2606
+  },
+  {
+    "index":182,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Tổng cộng có bao nhiêu biển báo giao thông trong ảnh?",
+    "answer":[
+      "Có 2 biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":2606
+  },
+  {
+    "index":183,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn đường nằm ở đâu so với biển cấm đỗ?",
+    "answer":[
+      "Nằm ở phía trên bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":2606
+  },
+  {
+    "index":184,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn đường có màu nền là màu gì?",
+    "answer":[
+      "Màu xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":2606
+  },
+  {
+    "index":185,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm vượt trong ảnh không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":2606
+  },
+  {
+    "index":186,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu hình tròn giới hạn tốc độ trên biển gộp?",
+    "answer":[
+      "Có 3 hình tròn."
+    ],
+    "type":"Counting",
+    "image_idx":2606
+  },
+  {
+    "index":187,
+    "image_name":"2606.jpg",
+    "group_id":4,
+    "question":"Biển cấm đỗ xe nằm ở phía nào của khung ảnh?",
+    "answer":[
+      "Nằm ở phía bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":2606
+  },
+  {
+    "index":188,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo phía trên cao bên phải thuộc loại gì?",
+    "answer":[
+      "Biển gộp làn đường theo phương tiện."
+    ],
+    "type":"Identity",
+    "image_idx":2485
+  },
+  {
+    "index":189,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn đỏ viền trắng cấm điều gì?",
+    "answer":[
+      "Cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":2485
+  },
+  {
+    "index":190,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo giao thông chính trong ảnh?",
+    "answer":[
+      "Có 7 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2485
+  },
+  {
+    "index":191,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn màu xanh có ý nghĩa gì?",
+    "answer":[
+      "Phải đi vòng sang bên phải."
+    ],
+    "type":"Attribute",
+    "image_idx":2485
+  },
+  {
+    "index":192,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tam giác vàng có hình zig-zag là gì?",
+    "answer":[
+      "Nhiều chỗ ngoặt nguy hiểm liên tiếp."
+    ],
+    "type":"Identity",
+    "image_idx":2485
+  },
+  {
+    "index":193,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo cấm đi ngược chiều nằm ở đâu?",
+    "answer":[
+      "Nằm ở phía xa bên trái."
+    ],
+    "type":"Spatial",
+    "image_idx":2485
+  },
+  {
+    "index":194,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Có phải biển báo bến xe buýt xuất hiện trong ảnh?",
+    "answer":[
+      "Có, nằm ở phía xa bên trái."
+    ],
+    "type":"Yes_No",
+    "image_idx":2485
+  },
+  {
+    "index":195,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo gộp làn đường nằm bên nào?",
+    "answer":[
+      "Nằm bên phải phía trên cao."
+    ],
+    "type":"Spatial",
+    "image_idx":2485
+  },
+  {
+    "index":196,
+    "image_name":"2485.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn đỏ viền trắng có màu gì?",
+    "answer":[
+      "Màu đỏ và trắng."
+    ],
+    "type":"Attribute",
+    "image_idx":2485
+  },
+  {
+    "index":197,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Trong ảnh có biển báo giới hạn tốc độ không?",
+    "answer":[
+      "Có, biển 40km\/h và 60km\/h."
+    ],
+    "type":"Yes_No",
+    "image_idx":1224
+  },
+  {
+    "index":198,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Biển báo làn đường nằm ở đâu?",
+    "answer":[
+      "Nằm bên phải lề đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1224
+  },
+  {
+    "index":199,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo giới hạn tốc độ?",
+    "answer":[
+      "Có hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1224
+  },
+  {
+    "index":200,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Biển báo nào quy định làn đường cho phương tiện?",
+    "answer":[
+      "Biển báo hiệu lệnh gộp làn."
+    ],
+    "type":"Identity",
+    "image_idx":1224
+  },
+  {
+    "index":201,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Biển giới hạn tốc độ có hình dạng gì?",
+    "answer":[
+      "Hình tròn viền đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":1224
+  },
+  {
+    "index":202,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn nằm bên trái biển tốc độ phải không?",
+    "answer":[
+      "Không, nó nằm tách biệt bên phải."
+    ],
+    "type":"Yes_No",
+    "image_idx":1224
+  },
+  {
+    "index":203,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo giao thông chính trong ảnh?",
+    "answer":[
+      "Có ba biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":1224
+  },
+  {
+    "index":204,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Vị trí của các biển báo tốc độ là ở đâu?",
+    "answer":[
+      "Trên cột treo phía trên cao."
+    ],
+    "type":"Spatial",
+    "image_idx":1224
+  },
+  {
+    "index":205,
+    "image_name":"1224.jpg",
+    "group_id":4,
+    "question":"Biển báo nào hiển thị tốc độ tối đa 40km\/h?",
+    "answer":[
+      "Biển hình tròn bên trái."
+    ],
+    "type":"Identity",
+    "image_idx":1224
+  },
+  {
+    "index":206,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn màu đỏ xanh trong ảnh là gì?",
+    "answer":[
+      "Biển báo cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":2601
+  },
+  {
+    "index":207,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Giới hạn tốc độ tối đa cho phép là bao nhiêu?",
+    "answer":[
+      "60 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":2601
+  },
+  {
+    "index":208,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm vượt trong ảnh không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":2601
+  },
+  {
+    "index":209,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo giao thông chính trên cột?",
+    "answer":[
+      "Hai biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":2601
+  },
+  {
+    "index":210,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Biển báo cấm đỗ xe nằm ở đâu?",
+    "answer":[
+      "Nằm bên dưới biển phân làn."
+    ],
+    "type":"Spatial",
+    "image_idx":2601
+  },
+  {
+    "index":211,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Biển báo phân làn có tất cả bao nhiêu cột?",
+    "answer":[
+      "Ba cột phân làn."
+    ],
+    "type":"Counting",
+    "image_idx":2601
+  },
+  {
+    "index":212,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Xe tải được phép đi vào làn nào?",
+    "answer":[
+      "Làn thứ ba bên phải."
+    ],
+    "type":"Attribute",
+    "image_idx":2601
+  },
+  {
+    "index":213,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Biển báo phân làn nằm phía trên biển cấm đỗ xe?",
+    "answer":[
+      "Đúng."
+    ],
+    "type":"Yes_No",
+    "image_idx":2601
+  },
+  {
+    "index":214,
+    "image_name":"2601.jpg",
+    "group_id":4,
+    "question":"Biển báo nào quy định tốc độ cho các làn?",
+    "answer":[
+      "Biển gộp làn đường."
+    ],
+    "type":"Identity",
+    "image_idx":2601
+  },
+  {
+    "index":215,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn đỏ cấm phương tiện nào?",
+    "answer":[
+      "Xe hai bánh và ba bánh."
+    ],
+    "type":"Identity",
+    "image_idx":2379
+  },
+  {
+    "index":216,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Tốc độ tối đa cho phép ở làn bên phải là bao nhiêu?",
+    "answer":[
+      "60 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":2379
+  },
+  {
+    "index":217,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm dừng và đỗ xe không?",
+    "answer":[
+      "Có, nằm trên cột biển báo."
+    ],
+    "type":"Yes_No",
+    "image_idx":2379
+  },
+  {
+    "index":218,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo tốc độ hình tròn?",
+    "answer":[
+      "Có hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2379
+  },
+  {
+    "index":219,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Biển báo làn đường nằm ở phía nào trong ảnh?",
+    "answer":[
+      "Phía bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":2379
+  },
+  {
+    "index":220,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Biển báo nào quy định làn đường cho ô tô?",
+    "answer":[
+      "Biển gộp làn đường phương tiện."
+    ],
+    "type":"Identity",
+    "image_idx":2379
+  },
+  {
+    "index":221,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Biển báo tốc độ 80km\/h có nằm bên trái biển 60km\/h không?",
+    "answer":[
+      "Có, nằm ngay bên trái."
+    ],
+    "type":"Spatial",
+    "image_idx":2379
+  },
+  {
+    "index":222,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Có tổng cộng bao nhiêu biển báo giao thông trên cột?",
+    "answer":[
+      "Có bốn biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2379
+  },
+  {
+    "index":223,
+    "image_name":"2379.jpg",
+    "group_id":4,
+    "question":"Biển báo tròn có viền đỏ cấm đỗ xe không?",
+    "answer":[
+      "Có, đó là biển cấm dừng đỗ."
+    ],
+    "type":"Yes_No",
+    "image_idx":2379
+  },
+  {
+    "index":224,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Biển báo chữ nhật lớn có nội dung gì?",
+    "answer":[
+      "Biển gộp làn đường theo phương tiện."
+    ],
+    "type":"Identity",
+    "image_idx":1230
+  },
+  {
+    "index":225,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn đỏ có ý nghĩa gì?",
+    "answer":[
+      "Cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":1230
+  },
+  {
+    "index":226,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Biển báo nào cấm xe hai và ba bánh?",
+    "answer":[
+      "Biển tròn có gạch chéo đỏ."
+    ],
+    "type":"Attribute",
+    "image_idx":1230
+  },
+  {
+    "index":227,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Biển báo gộp làn có màu gì chủ đạo?",
+    "answer":[
+      "Màu xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":1230
+  },
+  {
+    "index":228,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm dừng đỗ trong ảnh không?",
+    "answer":[
+      "Có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1230
+  },
+  {
+    "index":229,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Làn đường được phép đi vào có dành cho xe máy không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":1230
+  },
+  {
+    "index":230,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo giao thông chính trên cột?",
+    "answer":[
+      "Có 5 biển báo chính."
+    ],
+    "type":"Counting",
+    "image_idx":1230
+  },
+  {
+    "index":231,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu ô trong biển gộp làn đường?",
+    "answer":[
+      "Có 3 ô."
+    ],
+    "type":"Counting",
+    "image_idx":1230
+  },
+  {
+    "index":232,
+    "image_name":"1230.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn đường nằm ở đâu trong ảnh?",
+    "answer":[
+      "Nằm bên phải lề đường."
+    ],
+    "type":"Spatial",
+    "image_idx":1230
+  },
+  {
+    "index":233,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn trong ảnh có ý nghĩa gì?",
+    "answer":[
+      "Biển cấm đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":2613
+  },
+  {
+    "index":234,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Biển báo hình chữ nhật có màu gì?",
+    "answer":[
+      "Màu xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":2613
+  },
+  {
+    "index":235,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm đỗ xe trong ảnh không?",
+    "answer":[
+      "Có, nằm bên phải."
+    ],
+    "type":"Yes_No",
+    "image_idx":2613
+  },
+  {
+    "index":236,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Trong ảnh có bao nhiêu biển báo giao thông?",
+    "answer":[
+      "Có 2 biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":2613
+  },
+  {
+    "index":237,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Biển báo gộp làn nằm ở đâu?",
+    "answer":[
+      "Nằm ở phía trên cao."
+    ],
+    "type":"Spatial",
+    "image_idx":2613
+  },
+  {
+    "index":238,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Biển báo gộp làn có hình dạng gì?",
+    "answer":[
+      "Hình chữ nhật."
+    ],
+    "type":"Identity",
+    "image_idx":2613
+  },
+  {
+    "index":239,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm xe máy không?",
+    "answer":[
+      "Không có."
+    ],
+    "type":"Yes_No",
+    "image_idx":2613
+  },
+  {
+    "index":240,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu xe máy xuất hiện trong ảnh?",
+    "answer":[
+      "Có ít nhất 4 xe máy."
+    ],
+    "type":"Counting",
+    "image_idx":2613
+  },
+  {
+    "index":241,
+    "image_name":"2613.jpg",
+    "group_id":4,
+    "question":"Biển cấm đỗ xe được đặt ở đâu?",
+    "answer":[
+      "Trên cột bên phải đường."
+    ],
+    "type":"Spatial",
+    "image_idx":2613
+  },
+  {
+    "index":242,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Biển báo hình tròn đỏ có ý nghĩa gì?",
+    "answer":[
+      "Cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":3058
+  },
+  {
+    "index":243,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Tốc độ tối đa cho phép trên biển là bao nhiêu?",
+    "answer":[
+      "50 km\/h."
+    ],
+    "type":"Attribute",
+    "image_idx":3058
+  },
+  {
+    "index":244,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm xe hai bánh trong ảnh không?",
+    "answer":[
+      "Có, biển cấm xe hai và ba bánh."
+    ],
+    "type":"Yes_No",
+    "image_idx":3058
+  },
+  {
+    "index":245,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo cấm hình tròn trên cột bên trái?",
+    "answer":[
+      "Có 3 biển báo cấm."
+    ],
+    "type":"Counting",
+    "image_idx":3058
+  },
+  {
+    "index":246,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn đường nằm ở phía nào?",
+    "answer":[
+      "Nằm ở phía bên phải."
+    ],
+    "type":"Spatial",
+    "image_idx":3058
+  },
+  {
+    "index":247,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Biển nào quy định làn xe máy và xe ô tô?",
+    "answer":[
+      "Biển gộp làn đường theo phương tiện."
+    ],
+    "type":"Identity",
+    "image_idx":3058
+  },
+  {
+    "index":248,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Biển hạn chế tốc độ có màu gì?",
+    "answer":[
+      "Viền đỏ, nền trắng, chữ đen."
+    ],
+    "type":"Attribute",
+    "image_idx":3058
+  },
+  {
+    "index":249,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Có biển báo hiệu đường một chiều không?",
+    "answer":[
+      "Không có biển báo này."
+    ],
+    "type":"Yes_No",
+    "image_idx":3058
+  },
+  {
+    "index":250,
+    "image_name":"3058.jpg",
+    "group_id":4,
+    "question":"Biển báo chỉ dẫn khoảng cách nằm ở đâu?",
+    "answer":[
+      "Phía dưới biển gộp làn đường."
+    ],
+    "type":"Spatial",
+    "image_idx":3058
+  },
+  {
+    "index":251,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Biển báo trên cùng bên trái có ý nghĩa gì?",
+    "answer":[
+      "Cấm dừng và đỗ xe."
+    ],
+    "type":"Identity",
+    "image_idx":1238
+  },
+  {
+    "index":252,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Màu sắc chủ đạo của biển gộp làn đường là gì?",
+    "answer":[
+      "Màu xanh dương."
+    ],
+    "type":"Attribute",
+    "image_idx":1238
+  },
+  {
+    "index":253,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Có biển báo cấm xe tải trong ảnh không?",
+    "answer":[
+      "Không."
+    ],
+    "type":"Yes_No",
+    "image_idx":1238
+  },
+  {
+    "index":254,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu biển báo hình tròn trong ảnh?",
+    "answer":[
+      "Có hai biển báo."
+    ],
+    "type":"Counting",
+    "image_idx":1238
+  },
+  {
+    "index":255,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Biển cấm nằm ở vị trí nào so với biển gộp làn?",
+    "answer":[
+      "Nằm bên trái biển gộp làn."
+    ],
+    "type":"Spatial",
+    "image_idx":1238
+  },
+  {
+    "index":256,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Biển báo thứ hai từ trên xuống cấm loại xe nào?",
+    "answer":[
+      "Cấm xe hai và ba bánh."
+    ],
+    "type":"Identity",
+    "image_idx":1238
+  },
+  {
+    "index":257,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Biển gộp làn đường có hình dạng gì?",
+    "answer":[
+      "Hình chữ nhật."
+    ],
+    "type":"Attribute",
+    "image_idx":1238
+  },
+  {
+    "index":258,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Biển cấm dừng đỗ có hình tròn không?",
+    "answer":[
+      "Có."
+    ],
+    "type":"Yes_No",
+    "image_idx":1238
+  },
+  {
+    "index":259,
+    "image_name":"1238.jpg",
+    "group_id":4,
+    "question":"Có bao nhiêu cột đỡ biển báo trong ảnh?",
+    "answer":[
+      "Có ba cột."
+    ],
+    "type":"Counting",
+    "image_idx":1238
+  }
+]
