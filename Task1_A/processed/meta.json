@@ -1,0 +1,9 @@
+{
+  "image_dir": "../traffic-signs-image",
+  "train_json": "../processed/train.json",
+  "val_json": "../processed/val.json",
+  "test_json": "../processed/test.json",
+  "checkpoint_dir": "../checkpoints",
+  "result_dir": "../results",
+  "figure_dir": "../results/figures"
+}
