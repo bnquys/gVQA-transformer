@@ -2,3 +2,4 @@ Video demo: https://drive.google.com/drive/folders/12ctRytK7-cbamtFsxwbOyBM7KkNp
 Notebook B2: https://www.kaggle.com/code/spixalo/dl-endterm-b2-vnts
 Notebook B2 Reinforcement Learning: https://www.kaggle.com/code/spixalo/dl-endterm-b2-rl
 Metrics B2: https://www.kaggle.com/code/spixalo/dl-endterm-b-allmetrics
+Dataset for task-2: https://huggingface.co/datasets/tung213/vietnamese-vqa_merged
